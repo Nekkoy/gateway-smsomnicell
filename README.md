@@ -3,7 +3,7 @@ SMS Gateway для сервиса [omnicell.ua](https://omnicell.ua)
 
 Установка:
 ```
-composer require nekkoy/gateway-smsfly
+composer require nekkoy/gateway-smsomnicell
 ```
 
 Конфигурация `.env`
